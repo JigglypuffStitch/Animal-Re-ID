@@ -5,7 +5,6 @@
 | ATRW(Amur Tiger Re-identification) | [ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification) | [label link](https://drive.google.com/drive/folders/1HlFVl5SPcKFWElo9cwq7eTyL1qwEeSSD?usp=sharing) |
 
 ```
-
 Aniaml dataset  
  ├─Tools  
  |   (tools to process datasets, changing datasets formats to Market1501 format)  
