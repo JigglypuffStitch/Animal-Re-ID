@@ -6,12 +6,11 @@
 
 ```
 
-.
 Aniaml dataset  
  ├─Tools  
  |   (tools to process datasets, changing datasets formats to Market1501 format)  
  ├─README.md
-.
+```
 
 # Tools
 Run **ATRW_test.py** to process the ATRW test set data format. You need to first download the ATRW test set and the gt_test_plain.json  
