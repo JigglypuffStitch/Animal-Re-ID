@@ -1,4 +1,4 @@
-# Animal-dataset
+# Wildlife-dataset
 | Dataset | Dataset Download | Annotations |
 | ---- | ---- | ---- |
 | iPanda-50 | [iPanda-50](https://github.com/iPandaDateset/iPanda-50) | [label link](https://drive.google.com/drive/folders/1jhk8qgyWMbL1Ykd_GlAjh2Vn2e_wMJmc?usp=sharing) |
@@ -6,7 +6,7 @@
 
 
 ```
-Aniaml dataset  
+Wildlife dataset  
  ├─Tools  
  |   (tools to process datasets, changing datasets formats to Market1501 format)  
  ├─README.md
