@@ -17,4 +17,5 @@ Run **ATRW_test.py** to process the ATRW test set data format. You need to first
 Run **market_change.py** to change the format to Market1501 format  
 Run **split_train_test.py** to split the dataset to train_set and test_set  
 
-Our project will be constantly updated
+
+# Our project will be constantly updated
