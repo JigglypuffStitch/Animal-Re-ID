@@ -3,11 +3,11 @@
 | ---- | ---- | ---- |
 | iPanda-50 | [iPanda-50](https://github.com/iPandaDateset/iPanda-50) | [label link](https://drive.google.com/drive/folders/1jhk8qgyWMbL1Ykd_GlAjh2Vn2e_wMJmc?usp=sharing) |
 | ATRW(Amur Tiger Re-identification) | [ATRW](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification) | [label link](https://drive.google.com/drive/folders/1HlFVl5SPcKFWElo9cwq7eTyL1qwEeSSD?usp=sharing) |  
-| ELPephants | [ELPephants](https://cornell.app.box.com/s/qh9clpzm5e2vgsjmcaca0kqasj2vt1f6.)| label link(https://drive.google.com/drive/folders/ELPephants) |  
-| SealID | [SealID](https://etsin.fairdata.fi/dataset/22b5191e-f24b-4457-93d3-95797c900fc0.)| label link(https://drive.google.com/drive/folders/SealID) |  
-|  GZGC-G | [ GZGC-G](https://lila.science/datasets/great-zebra-giraffe-id.)| label link(https://drive.google.com/drive/folders/GZGC-G) |  
-|  GZGC-Z | [ GZGC-Z](https://lila.science/datasets/great-zebra-giraffe-id.)| label link(https://drive.google.com/drive/folders/GZGC-Z) |  
-|   LeopardID | [ LeopardID](https://lila.science/datasets/leopard-id-2022/.)| label link(https://drive.google.com/drive/folders/LeopardID) |  
+| ELPephants | [ELPephants](https://cornell.app.box.com/s/qh9clpzm5e2vgsjmcaca0kqasj2vt1f6.)| [label link](https://drive.google.com/drive/folders/ELPephants) |  
+| SealID | [SealID](https://etsin.fairdata.fi/dataset/22b5191e-f24b-4457-93d3-95797c900fc0.)| [label link](https://drive.google.com/drive/folders/SealID) |  
+|  GZGC-G | [ GZGC-G](https://lila.science/datasets/great-zebra-giraffe-id.)| [label link](https://drive.google.com/drive/folders/GZGC-G) |  
+|  GZGC-Z | [ GZGC-Z](https://lila.science/datasets/great-zebra-giraffe-id.)| [label link](https://drive.google.com/drive/folders/GZGC-Z) |  
+|   LeopardID | [ LeopardID](https://lila.science/datasets/leopard-id-2022/.)| [label link](https://drive.google.com/drive/folders/LeopardID) |  
 
 
 ```
